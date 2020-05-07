@@ -1,0 +1,22 @@
+{
+  "name": "thinkwidetech",
+  "version": "1.0.0",
+  "description": "Think Wide Tech is a Start up. Where we will share our experience while learning different kind of technologies like react , node , express , MongoDB etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Think",
+    "Wide",
+    "Tech"
+  ],
+  "author": "jaidev",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
